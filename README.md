@@ -1,1 +1,1 @@
-# egmore_app
+# stripe_connect
