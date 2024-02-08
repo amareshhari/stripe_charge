@@ -1,1 +1,1 @@
-# stripe_charge
+# egmore_app
